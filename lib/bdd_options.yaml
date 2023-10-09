@@ -21,3 +21,10 @@ externalSteps:
   - package:nostra_bdd_steps/step/i_tap_at_widget.dart
   - package:nostra_bdd_steps/step/i_delete_at_input_field.dart
   - package:nostra_bdd_steps/step/i_tap_widget_with_text.dart
+  - package:nostra_bdd_steps/step/i_tap_register_button.dart
+  - package:nostra_bdd_steps/step/i_see_at_last_one_text.dart
+  - package:nostra_bdd_steps/step/i_see_two_widgets.dart
+  - package:nostra_bdd_steps/step/i_see_widget_with_text.dart
+  - package:nostra_bdd_steps/step/i_tap_widget_with_text.dart
+  - package:nostra_bdd_steps/step/i_tap_login_button.dart
+  - package:nostra_bdd_steps/step/i_tap_register_button.dart
