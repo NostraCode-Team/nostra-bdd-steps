@@ -2,5 +2,5 @@ import 'package:flutter_test/flutter_test.dart';
 
 /// Example: And I wait
 Future<void> iWait(WidgetTester tester) async {
-  await tester.pumpAndSettle(Duration(seconds: 2));
+  await tester.pumpAndSettle(Duration(seconds: 3));
 }
